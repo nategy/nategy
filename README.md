@@ -11,7 +11,7 @@ I’m an IT Dallas Manager / Jr. Network & Systems Administrator and full-stack 
 ## Tech I Use
 
 - **Languages:** JavaScript/TypeScript, C++, Java, HTML, CSS  
-- **Cloud & Tools:** AWS (Lambda, DynamoDB, API Gateway, QuickSight, Lex), Git/GitHub  
+- **Cloud & Tools:** AWS (Lambda, DynamoDB, API Gateway, QuickSight, Lex), Git/GitHub, Blender Animation  
 - **Frontend:** React, Three.js, modern CSS
 
 For inquiries, reach me at: **graywebcreations@gmail.com**

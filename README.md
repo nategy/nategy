@@ -5,7 +5,7 @@ I’m an IT Dallas Manager / Jr. Network & Systems Administrator and full-stack 
 ## Recent Work
 
 - **UniFi Store Network Health Dashboard** - AWS Lambda + DynamoDB + QuickSight to visualize WAN latency, client counts, and offline devices for supermarket stores.
-- **HSART Web Page** – Public-facing WordPress site for the Harris County Sexual Assault Response Team, focused on clear resources, crisis contacts, and accessible information.  
+- **HSART Web Page** - Public-facing WordPress site for the Harris County Sexual Assault Response Team, focused on clear resources, crisis contacts, and accessible information.  
 - **AWS Lex IT Support Chatbot** - Bilingual (English/Spanish) bot that guides store staff through common IT issues using internal SOPs.
 - **Party Fascinations 3D Event Configurator** - React/Three.js tool that lets customers design and visualize event layouts in 3D.
 
